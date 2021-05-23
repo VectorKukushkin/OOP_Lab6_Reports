@@ -1,0 +1,13 @@
+D:\Users\vecto\source\repos\OOP_Lab6_Reports\OOP_Lab6_Reports\bin\Debug\netcoreapp3.1\OOP_Lab6_Reports.exe
+D:\Users\vecto\source\repos\OOP_Lab6_Reports\OOP_Lab6_Reports\bin\Debug\netcoreapp3.1\OOP_Lab6_Reports.deps.json
+D:\Users\vecto\source\repos\OOP_Lab6_Reports\OOP_Lab6_Reports\bin\Debug\netcoreapp3.1\OOP_Lab6_Reports.runtimeconfig.json
+D:\Users\vecto\source\repos\OOP_Lab6_Reports\OOP_Lab6_Reports\bin\Debug\netcoreapp3.1\OOP_Lab6_Reports.runtimeconfig.dev.json
+D:\Users\vecto\source\repos\OOP_Lab6_Reports\OOP_Lab6_Reports\bin\Debug\netcoreapp3.1\OOP_Lab6_Reports.dll
+D:\Users\vecto\source\repos\OOP_Lab6_Reports\OOP_Lab6_Reports\bin\Debug\netcoreapp3.1\OOP_Lab6_Reports.pdb
+D:\Users\vecto\source\repos\OOP_Lab6_Reports\OOP_Lab6_Reports\obj\Debug\netcoreapp3.1\OOP_Lab6_Reports.csprojAssemblyReference.cache
+D:\Users\vecto\source\repos\OOP_Lab6_Reports\OOP_Lab6_Reports\obj\Debug\netcoreapp3.1\OOP_Lab6_Reports.AssemblyInfoInputs.cache
+D:\Users\vecto\source\repos\OOP_Lab6_Reports\OOP_Lab6_Reports\obj\Debug\netcoreapp3.1\OOP_Lab6_Reports.AssemblyInfo.cs
+D:\Users\vecto\source\repos\OOP_Lab6_Reports\OOP_Lab6_Reports\obj\Debug\netcoreapp3.1\OOP_Lab6_Reports.csproj.CoreCompileInputs.cache
+D:\Users\vecto\source\repos\OOP_Lab6_Reports\OOP_Lab6_Reports\obj\Debug\netcoreapp3.1\OOP_Lab6_Reports.dll
+D:\Users\vecto\source\repos\OOP_Lab6_Reports\OOP_Lab6_Reports\obj\Debug\netcoreapp3.1\OOP_Lab6_Reports.pdb
+D:\Users\vecto\source\repos\OOP_Lab6_Reports\OOP_Lab6_Reports\obj\Debug\netcoreapp3.1\OOP_Lab6_Reports.genruntimeconfig.cache
